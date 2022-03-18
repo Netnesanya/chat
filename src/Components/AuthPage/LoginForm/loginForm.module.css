@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    align-items: center;
+    height: auto;
+    flex-direction: column;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    height: auto;
+
+
+}
+label {
+    margin: 0 20px -10px;
+}
+
+input {
+    height: 25px;
+    margin: 20px;
+    width: 300px;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+button {
+    margin: 25px;
+    height: 25px;
+}
